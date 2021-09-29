@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! :sunny:
+
+- I'm currently working on a commercial website.
+- Learning React and perfecting javascript, css & Html.
+- I enjoy frontend development.
+- Ask me about Fitness Training and Performance Nutrition.
+- Fun Fact, I am a Dog Lover.
 
 <!--
 **AndresBallares/AndresBallares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
